@@ -1,0 +1,46 @@
+
+#header{
+	background:#5A5C61;
+	color: #c7c8ca;
+}
+#header a{
+	color: #c7c8ca;	
+}
+#header a:hover{
+	color: #c7c8ca;	
+}
+#header table tr:nth-of-type(1) td:nth-of-type(1){
+	color: #fff;
+}
+
+#index-link{
+	background-image:
+	;
+}
+#js-print_btn{
+	background-image: url(../images/icon_pr.png);
+	background-repeat: no-repeat;
+	background-position: 50%;
+	background-size: 30%;
+	width: 150px;
+	cursor: pointer;
+}
+#index-link{
+	background-image: url(../images/icon_ind.png);
+	background-repeat: no-repeat;
+	background-position: 50%;
+	background-size: 110px;
+	width: 150px;
+	cursor: pointer;
+}
+#js_app_close{
+	background-image: url(../images/icon_cl.png);
+	background-repeat: no-repeat;
+	background-position: 50%;
+	background-size: 50px;
+	width: 50px;
+	cursor: pointer;
+}
+#js-helper_window{
+	cursor: pointer;
+}
