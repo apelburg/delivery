@@ -38,7 +38,7 @@
     	                <input type="text" name="search_company" placeholder="по компании">
     	                <input type="text" name="search" placeholder="по поездке">
     	                <input type="text" name="search_docs" placeholder="по документам">
-    	                <button>Найти</button>
+    	                <button>&nbsp;</button>
                   	</form>
                 </td>
                 <td id="js-driver_list">
